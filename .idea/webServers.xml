@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9df5f112-4d69-4a12-a3da-02861bab8a0f" name="diploma">
+        <fileTransfer rootFolder="/var/www/easy" accessType="SFTP" host="85.159.210.213" port="22" sshConfigId="12a31cda-4a2b-4240-b99e-60e5737c043f" sshConfig="madiyar@85.159.210.213:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
